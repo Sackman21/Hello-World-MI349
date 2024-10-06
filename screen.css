@@ -11,7 +11,7 @@ main{
     width: 800px;
 }
 .masthead {
-    
+    background-image: url("Images/mac.jpg");
 }
 .details{
     display: flex;
@@ -27,7 +27,7 @@ main{
 }
 img{
     width: 100%;
-    border-radius: 20px;
+    
 }
 h2{
     margin: 0 0 10px 0;
