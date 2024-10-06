@@ -4,6 +4,7 @@ body {
     font-family: Helvetica, sans-serif;
     border-top: 15px solid #424242;
     margin: 0;
+    color: #424242;
 
 }
 main{
@@ -32,6 +33,11 @@ main{
 img{
     width: 100%;
     
+}
+h1{
+    background-image: url("Images/Logo.png");
+    background-repeat: no-repeat;
+    font-size: 3ems;
 }
 h2{
     margin: 0 0 10px 0;
