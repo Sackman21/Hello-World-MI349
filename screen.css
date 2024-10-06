@@ -37,7 +37,10 @@ img{
 h1{
     background-image: url("Images/Logo.png");
     background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 40px;
     font-size: 3ems;
+    padding-left: 50px;
 }
 h2{
     margin: 0 0 10px 0;
