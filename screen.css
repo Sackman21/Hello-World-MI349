@@ -30,6 +30,16 @@ main{
     border-radius: 20px;
     margin-top: 25px;
 }
+.details section.with-code{
+    padding: 0;
+}
+div.code-copy{
+    padding: 25xp;
+}
+div.code-html{
+    padding: 25px;
+    background: #424242;
+}
 img{
     width: 100%;
     
